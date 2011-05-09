@@ -293,4 +293,8 @@ http://ngdc.noaa.gov/geomag/magfield.shtml
 
  </makefile>
 
+ <modules>
+    <load name="TUDelft/gumstix_camera_interface.xml"/>
+ </modules>
+
 </airframe>
